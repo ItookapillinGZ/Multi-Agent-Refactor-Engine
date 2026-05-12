@@ -26,7 +26,7 @@
 
 
 * 
-**LLM**: Claude-3.5-Sonnet 
+**LLM**: Claude-4.6-Sonnet 
 
 
 * 
